@@ -1,0 +1,31 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1554755642152058920/BnxZsiDFHUC-VMRD_LPiBIIpKsay_DaQtZOmTRCt1GRdPm9UAytjggmI4-dDxXe3bYIc",
+  "product_url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-261030-kickflip-the-5th-mini-album-kick-off-the-wall-pt-1-%E7%99%BC%E8%A1%8C%E7%B4%80%E5%BF%B5%E4%B8%80%E6%97%A5%E5%BA%97%E9%95%B7%E6%B4%BB%E5%8B%95-in-taipei.json",
+  "variants": [
+    { "variant_id": 89381609, "custom_name": "1회차 Part.1" },
+    { "variant_id": 89381634, "custom_name": "2회차 Part.2" },
+    { "variant_id": 89381635, "custom_name": "3회차 Part.3" }
+  ],
+  "schedules": [
+   {
+      "start": "2026-09-30 14:00",
+      "end": "2026-10-03 00:00",
+      "interval_minutes": 240
+    },
+    {
+      "start": "2026-10-03 00:00",
+      "end": "2026-10-03 21:00",
+      "interval_minutes": 30
+    },
+    {
+      "start": "2026-10-03 21:00",
+      "end": "2026-10-03 23:00",
+      "interval_minutes": 15
+    },
+    {
+      "start": "2026-10-03 23:00",
+      "end": "2026-10-04 00:00",
+      "interval_minutes": 5
+    }
+  ]
+}
